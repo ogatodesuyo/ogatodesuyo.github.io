@@ -1,0 +1,22 @@
+name: Ogawa Hideto
+description: "
+  <p>
+    しがないPythonエンジニア、おがとの個人サイトです。
+  </p>
+  <br/>
+  <p>
+    よかったらフォローしていただけると嬉しいです。<a href='https://twitter.com/ogato_desuyo' target='_blank'>Twitter</a>
+  </P>
+"
+email: dev_sharad@outlook.com
+contact:
+  - title: Instagram
+    url: https://www.instagram.com/ogatography/
+  - title: github
+    url: https://github.com/ogatodesuyo
+  - title: twitter
+    url: https://twitter.com/ogato_desuyo
+  - title: pinterest
+    url: https://www.pinterest.jp/ogato_desuyo/
+  - title: email
+    url: tentenflog@gmail.com
