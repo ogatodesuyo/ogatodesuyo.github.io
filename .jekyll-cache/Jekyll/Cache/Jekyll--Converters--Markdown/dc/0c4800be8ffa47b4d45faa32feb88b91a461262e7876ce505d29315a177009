@@ -1,0 +1,11 @@
+I"<p>投稿テスト</p>
+
+<details><summary>詳細を見る</summary>
+
+詳しい中身
+
+```rb
+puts 'Hello, World'
+```
+</details>
+:ET
