@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-23T15:14:33+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<p>投稿テスト</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-24T00:21:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<p>投稿テスト</p>
 
 <details><summary>詳細を見る</summary>
 
@@ -7,4 +7,31 @@
 ```rb
 puts 'Hello, World'
 ```
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年8月23日</summary>
+<br />
+今更ながらポートフォリオサイトを作りました。コンテンツをどんどん追加できるように投稿機能が欲しかったんですよね。でも極力マウスを使いたくない。なので投稿を全てエディタ上で行えて、かつマークダウンで投稿できるサイトジェネレータを探してみました。
+<br />
+<br />
+最終的にRubyのサイトジェネレータ「Jekyll」を選んだわけですが、まあこれが使いやすいんです。ディレクトリ構造にクセはあるもののReadmeを読まなくても大体雰囲気でどこをいじればいいのか分かるし、コンテンツ管理も至ってシンプル。エンジニアじゃなくてもある程度リテラシーのある人なら使いこなせるかと思います。この記事を読んでいるそこの貴方、良かったらJekyllで個人サイトを作ってみてはいかがでしょう。  
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月24日</summary>
+<br />
+
+まだだよん。先に枠だけ作っとく。
+
+<br />
+<br />
+</details>
+
+<details><summary>2022年8月25日</summary>
+<br />
+まだだよん。先に枠だけ作っとく。
+
+<br />
+<br />
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年8月23日 今更ながらポートフォリオサイトを作りました。コンテンツをどんどん追加できるように投稿機能が欲しかったんですよね。でも極力マウスを使いたくない。なので投稿を全てエディタ上で行えて、かつマークダウンで投稿できるサイトジェネレータを探してみました。 最終的にRubyのサイトジェネレータ「Jekyll」を選んだわけですが、まあこれが使いやすいんです。ディレクトリ構造にクセはあるもののReadmeを読まなくても大体雰囲気でどこをいじればいいのか分かるし、コンテンツ管理も至ってシンプル。エンジニアじゃなくてもある程度リテラシーのある人なら使いこなせるかと思います。この記事を読んでいるそこの貴方、良かったらJekyllで個人サイトを作ってみてはいかがでしょう。]]></summary></entry></feed>
