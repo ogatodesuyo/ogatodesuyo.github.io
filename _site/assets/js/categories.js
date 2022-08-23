@@ -1,4 +1,4 @@
-const categories = { fiction: [{ url: `/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],jekyll: [{ url: `/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},{ url: `/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],テスト: [{ url: `/posts/%E6%8A%95%E7%A8%BF%E3%83%86%E3%82%B9%E3%83%882/`, date: `22 Aug 2022`, title: `投稿テスト2`},{ url: `/posts/%E6%8A%95%E7%A8%BF%E3%83%86%E3%82%B9%E3%83%88/`, date: `22 Aug 2022`, title: `投稿テスト`},], }
+const categories = { 日記: [{ url: `/posts/dialy/`, date: `22 Aug 2022`, title: `日記`},],雑記: [{ url: `/posts/dialy/`, date: `22 Aug 2022`, title: `日記`},],プロフ: [{ url: `/posts/profile/`, date: `22 Aug 2022`, title: `プロフィール`},{ url: `/posts/skills/`, date: `22 Aug 2022`, title: `スキル`},{ url: `/posts/achievement/`, date: `22 Aug 2022`, title: `実績`},{ url: `/posts/creative/`, date: `22 Aug 2022`, title: `作ったもの`},],技術: [{ url: `/posts/creative/`, date: `22 Aug 2022`, title: `作ったもの`},], }
 
 console.log(categories);
 

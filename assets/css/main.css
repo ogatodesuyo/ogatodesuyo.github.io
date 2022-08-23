@@ -99,19 +99,30 @@ header .site-title {
   border-radius: 50%;
 }
 
+
+.category-area {
+  padding: 1rem 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+
 /* article list styles */
 
 #articles {
   display: grid;
   grid-template-columns: none;
   grid-template-rows: 1fr;
-  row-gap: 3rem;
+  row-gap: 2rem;
 }
 
 .article {
   background-color: var(--bg-dm-secondary);
   padding: 2rem 2.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   border-radius: var(--border-radius);
   display: flex;
   flex-direction: column;
@@ -123,18 +134,19 @@ header .site-title {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  box-shadow: inset 0 -80px 90px 11px rgba(0, 0, 0, 0.8);
+  box-shadow: inset 0 -80px 120px 11px rgba(0, 0, 0, 0.85);
   width: 100%;
-  min-height: 200px;
+  min-height: 180px;
   height: auto;
   margin: -2rem -2.5rem;
   inset: 0;
-  border-radius: var(--border-radius) var(--border-radius) 0 0;
-  margin-bottom: 0.2rem;
+  border-radius: var(--border-radius);
+  /* border-radius: var(--border-radius) var(--border-radius) 0 0; */
+  /* margin-bottom: 0.1rem; */
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
-  padding: 0 2.5rem 1rem 2.5rem;
+  padding: 0 2.5rem 0.5rem 2.5rem;
 }
 
 .article-title * {
@@ -144,7 +156,7 @@ header .site-title {
 }
 
 .article-bottom {
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
 }
 
 .article-date {
@@ -165,7 +177,7 @@ header .site-title {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 }
 
 /* footer */
