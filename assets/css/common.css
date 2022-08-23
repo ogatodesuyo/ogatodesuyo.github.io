@@ -78,7 +78,7 @@ hr {
 
 @media screen and (max-width: 650px) {
   a.site-title {
-    font-size: 3.5rem !important;
+    font-size: 3rem !important;
   }
   .site-title.article-page {
     font-size: 1.6rem !important;
