@@ -1,12 +1,9 @@
 name: Ogawa Hideto
 description: "
-  <p>
-    しがないPythonエンジニア、おがとの個人サイトです。
-  </p>
-  <br/>
-  <p>
-    よかったらフォローしていただけると嬉しいです。<a href='https://twitter.com/ogato_desuyo' target='_blank'>Twitter</a>
-  </P>
+    <p>しがないPythonエンジニア、おがとの個人サイトです。</p>
+    <br>
+    <p>フォローしていただけると</p>
+    <p>嬉しいです。<a href='https://twitter.com/ogato_desuyo' target='_blank'>Twitter</a></P>
 "
 email: dev_sharad@outlook.com
 contact:

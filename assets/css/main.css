@@ -59,7 +59,7 @@ header .site-title {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 3rem;
+  gap: 2rem;
 }
 /* #bio-avatar-wrapper {} */
 #bio-avatar {
