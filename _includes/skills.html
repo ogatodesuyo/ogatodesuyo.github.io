@@ -1,0 +1,11 @@
+<section id="skills-area">
+    {% for i in site.data.author.skills %}
+    <div class="skills-block">
+        <div class="skills-title">
+            <img src="{{site.baseurl}}/assets/skills/{{i.title}}.svg" alt="" />
+            <h4>{{i.title}}</h4>
+        </div>
+        <p>{{i.description}}</p>
+    </div>
+    {%endfor%}
+</section>

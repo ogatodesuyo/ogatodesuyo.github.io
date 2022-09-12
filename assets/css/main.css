@@ -181,6 +181,12 @@ header .site-title {
   font-size: 1.2rem;
 }
 
+
+/* skills-page */
+.skills-title {
+  display: flex;
+}
+
 /* footer */
 footer {
   background: var(--dm-contrast);
