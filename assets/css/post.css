@@ -39,7 +39,7 @@
 /* markdown content */
 
 .article-content * {
-  line-height: 180%;
+  line-height: 150%;
 }
 .article-content p {
   margin: 0 0 1.75rem 0;
