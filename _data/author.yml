@@ -18,6 +18,14 @@ contact:
   - title: email
     url: tentenflog@gmail.com
 
-skills:
+programming-skills:
+  - title: Python
+    description: 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。
+
+creative-skills:
   - title: photoshop
     description: 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。
+
+other-skills:
+  - title: 
+    description: 

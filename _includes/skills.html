@@ -1,8 +1,31 @@
 <section id="skills-area">
-    {% for i in site.data.author.skills %}
+    <h3>プログラミングスキル</h3>
+    {% for i in site.data.author.programming-skills %}
     <div class="skills-block">
         <div class="skills-title">
-            <img src="{{site.baseurl}}/assets/skills/{{i.title}}.svg" alt="" />
+            <img src="{{site.baseurl}}/assets/programming-skills/{{i.title}}.svg" alt="" />
+            <h4>{{i.title}}</h4>
+        </div>
+        <p>{{i.description}}</p>
+    </div>
+    {%endfor%}
+
+    <h3>クリエイティブスキル</h3>
+    {% for i in site.data.author.creative-skills %}
+    <div class="skills-block">
+        <div class="skills-title">
+            <img src="{{site.baseurl}}/assets/creative-skills/{{i.title}}.svg" alt="" />
+            <h4>{{i.title}}</h4>
+        </div>
+        <p>{{i.description}}</p>
+    </div>
+    {%endfor%}
+
+    <h3>その他スキル</h3>
+    {% for i in site.data.author.other-skills %}
+    <div class="skills-block">
+        <div class="skills-title">
+            <img src="{{site.baseurl}}/assets/other-skills/{{i.title}}.svg" alt="" />
             <h4>{{i.title}}</h4>
         </div>
         <p>{{i.description}}</p>

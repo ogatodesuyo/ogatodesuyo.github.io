@@ -1,0 +1,27 @@
+I"&<section id="skills-area">
+    <h3>プログラミングスキル</h3>
+    
+
+    <h3>クリエイティブスキル</h3>
+    
+    <div class="skills-block">
+        <div class="skills-title">
+            <img src="/assets/creative-skills/photoshop.svg" alt="" />
+            <h4>photoshop</h4>
+        </div>
+        <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。</p>
+    </div>
+    
+
+    <h3>その他スキル</h3>
+    
+    <div class="skills-block">
+        <div class="skills-title">
+            <img src="/assets/other-skills/photoshop.svg" alt="" />
+            <h4>photoshop</h4>
+        </div>
+        <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。</p>
+    </div>
+    
+</section>
+:ET
