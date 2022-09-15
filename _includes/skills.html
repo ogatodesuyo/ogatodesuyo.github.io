@@ -1,34 +1,43 @@
 <section id="skills-area">
-    <h3>プログラミングスキル</h3>
-    {% for i in site.data.author.programming-skills %}
-    <div class="skills-block">
-        <div class="skills-title">
-            <img src="{{site.baseurl}}/assets/programming-skills/{{i.title}}.svg" alt="" />
-            <h4>{{i.title}}</h4>
+    <h3 class="skill-area-title">プログラミングスキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        {% for i in site.data.author.programming-skills %}
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="{{site.baseurl}}/assets/programming-skills/{{i.title}}.svg" alt="" />
+                <h4>{{i.title}}</h4>
+            </div>
+            <p>{{i.description}}</p>
         </div>
-        <p>{{i.description}}</p>
-    </div>
-    {%endfor%}
+        {%endfor%}
+    </details>
 
-    <h3>クリエイティブスキル</h3>
-    {% for i in site.data.author.creative-skills %}
-    <div class="skills-block">
-        <div class="skills-title">
-            <img src="{{site.baseurl}}/assets/creative-skills/{{i.title}}.svg" alt="" />
-            <h4>{{i.title}}</h4>
+    <h3 class="skill-area-title">クリエイティブスキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        {% for i in site.data.author.creative-skills %}
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="{{site.baseurl}}/assets/creative-skills/{{i.title}}.svg" alt="" />
+                <h4>{{i.title}}</h4>
+            </div>
+            <p>{{i.description}}</p>
         </div>
-        <p>{{i.description}}</p>
-    </div>
-    {%endfor%}
+        {%endfor%}
+    </details>
 
-    <h3>その他スキル</h3>
-    {% for i in site.data.author.other-skills %}
-    <div class="skills-block">
-        <div class="skills-title">
-            <img src="{{site.baseurl}}/assets/other-skills/{{i.title}}.svg" alt="" />
-            <h4>{{i.title}}</h4>
+    <h3 class="skill-area-title">その他スキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        {% for i in site.data.author.other-skills %}
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="{{site.baseurl}}/assets/other-skills/{{i.title}}.svg" alt="" />
+                <h4>{{i.title}}</h4>
+            </div>
+            <p>{{i.description}}</p>
         </div>
-        <p>{{i.description}}</p>
-    </div>
-    {%endfor%}
+        {%endfor%}
+    </details>
 </section>
