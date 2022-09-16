@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ogato_desu | 日記</title>
-  
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  <link rel="stylesheet" href="/assets/css/post.css" />
-  <link rel="stylesheet" href="/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/assets/css/common.css" />
-  <script src="/assets/js/categories.js"></script>
-  
-  <script defer src="/assets/js/lbox.js"></script>
-  
-</head>
-
-
-<body>
-  <main class="blogfeed">
-    
-<header>
-  <a class="site-title article-page" href="/">ogato_desu</a>
-</header>
-
-
-    <section id="article">
-      
-      <!--  -->
-      
-      <!--  -->
-      
-      <div class="article-thumbnail" style="
-            background-image: url('/assets/images/dialy.jpg');
-          ">
-        <h1 class="article-title">日記</h1>
-        <div class="article-bottom">
-          <small class="article-date">22 Aug 2022</small>
-          <div class="article-categories">
-            
-            <a href="#!" class="article-category">日記</a>
-            
-            <a href="#!" class="article-category">雑記</a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="article-content"><details><summary>2022年8月26日</summary>
+I"Q<details><summary>2022年8月26日</summary>
 <br />
 最近は天気が悪かったので久々に散歩した。<br />
 
@@ -112,18 +63,4 @@
 <br />
 </details>
 
-</div>
-    </section>
-    <footer>
-  <p>&copy; 2022 - 2022 | おがと。</p>
-</footer>
-  </main>
-  <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-</body>
-
-</html>
+:ET

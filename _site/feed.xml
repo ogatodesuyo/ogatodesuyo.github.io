@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-15T20:56:48+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-16T11:00:37+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -25,6 +25,22 @@
             <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。</p>
         </div>
         
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/lightroom.svg" alt="" />
+                <h4>lightroom</h4>
+            </div>
+            <p>画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/XD.svg" alt="" />
+                <h4>XD</h4>
+            </div>
+            <p>Webのワイヤーフレームやプロトタイプのデザインができます。</p>
+        </div>
+        
     </details>
 
     <h3 class="skill-area-title">その他スキル</h3>
@@ -40,7 +56,21 @@
         </div>
         
     </details>
-</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。 その他スキル 詳しく見る]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年8月25日</summary>
+</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。 lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 その他スキル 詳しく見る]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年8月26日</summary>
+<br />
+最近は天気が悪かったので久々に散歩した。<br />
+
+散歩を再開したとたんにクリエイティブ意欲が沸き起こってきた。これは持論なのだが、クリエイターの労働時間は散歩したり映画を見たり手の込んだ料理をする時間まで含めて労働時間だと思う。僕はこれをマヨネーズ効果って呼んでいる。<br />
+<br />
+みんなもマヨネーズ絞る時はいきなり絞らずにまずは振るだろう？<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月25日</summary>
 <br />
 炊き込みご飯を作った。<br />
 
@@ -89,4 +119,4 @@
 
 <br />
 <br />
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年8月25日 炊き込みご飯を作った。]]></summary></entry></feed>
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年8月26日 最近は天気が悪かったので久々に散歩した。]]></summary></entry></feed>
