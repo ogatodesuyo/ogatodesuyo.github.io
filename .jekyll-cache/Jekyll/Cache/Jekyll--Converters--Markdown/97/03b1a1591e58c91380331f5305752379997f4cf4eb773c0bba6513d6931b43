@@ -1,0 +1,29 @@
+I"/<h3 id="レスバズ">レスバズ</h3>
+
+<p>趣味で作った個人サービスです。
+ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。</p>
+
+<details><summary>技術要件</summary>
+
+| あ         | あ          |  
+|:-----------|------------:|  
+|  開発言語   | Python     |  
+| フレームワーク | Django |  
+| DB | Amazon Aurora |  
+| be         | be          |  
+| left       | right       |  
+| aligned    | aligned     |  
+
+<table>
+      <thead>
+        <tr><th>発生エリア</th><th>2015</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>A 地域</td><td>12</td></tr>
+        <tr><td>B 地域</td><td>40</td></tr>
+        <tr><td>C 地域</td><td>15</td></tr>
+      </tbody>
+    </table>
+
+</details>
+:ET

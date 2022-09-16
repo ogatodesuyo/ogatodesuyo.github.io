@@ -1,0 +1,69 @@
+I"><section id="skills-area">
+    <h3 class="skill-area-title">プログラミングスキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/programming-skills/Python.svg" alt="" />
+                <h4>Python</h4>
+            </div>
+            <p>基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。</p>
+        </div>
+        
+    </details>
+
+    <h3 class="skill-area-title">クリエイティブスキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/photoshop.svg" alt="" />
+                <h4>photoshop</h4>
+            </div>
+            <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/lightroom.svg" alt="" />
+                <h4>lightroom</h4>
+            </div>
+            <p>画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/XD.svg" alt="" />
+                <h4>XD</h4>
+            </div>
+            <p>Webのワイヤーフレームやプロトタイプのデザインができます。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/creative-skills/PremirePro.svg" alt="" />
+                <h4>PremirePro</h4>
+            </div>
+            <p>動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br /><a href="https://youtu.be/OGuaCBPxeHc"><a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a>&lt;/p&gt;
+        &lt;/div&gt;
+        
+    &lt;/details&gt;
+
+    <h3 class="skill-area-title">その他スキル</h3>
+    <details>
+        <summary>詳しく見る</summary>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/other-skills/.svg" alt="" />
+                <h4></h4>
+            </div>
+            <p></p>
+        </div>
+        
+    </details>
+&lt;/section&gt;
+</a></p></div></details></section>
+:ET
