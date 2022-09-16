@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-16T14:25:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-16T16:25:27+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -9,6 +9,22 @@
                 <h4>Python</h4>
             </div>
             <p>基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/programming-skills/Django.svg" alt="" />
+                <h4>Django</h4>
+            </div>
+            <p>httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/programming-skills/GAS.svg" alt="" />
+                <h4>GAS</h4>
+            </div>
+            <p>Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。</p>
         </div>
         
     </details>
@@ -22,7 +38,7 @@
                 <img src="/assets/creative-skills/photoshop.svg" alt="" />
                 <h4>photoshop</h4>
             </div>
-            <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。</p>
+            <p>画像の加工や編集のほか、ポスターやパンフレットのデザインができます。<br />サンプル　  <a href="https://www.pinterest.jp/ogato_desuyo/%E3%81%8A%E3%81%8C%E3%81%A8%E7%B7%B4%E7%BF%92/">おがとの趣味デザインまとめ</a></p>
         </div>
         
         <div class="skills-block">
@@ -46,7 +62,7 @@
                 <img src="/assets/creative-skills/PremirePro.svg" alt="" />
                 <h4>PremirePro</h4>
             </div>
-            <p>動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br />サンプル  <a href="https://youtu.be/OGuaCBPxeHc">神ヶ谷舞</a>　<a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a></p>
+            <p>動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br /><br />サンプル　<a href="https://youtu.be/OGuaCBPxeHc">神ヶ谷舞</a>　<a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a></p>
         </div>
         
     </details>
@@ -64,7 +80,7 @@
         </div>
         
     </details>
-</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。 lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル 神ヶ谷舞　リクルート動画 その他スキル 詳しく見る]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
+</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 Django httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。 GAS Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。 クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。サンプル　 おがとの趣味デザインまとめ lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル　神ヶ谷舞　リクルート動画 その他スキル 詳しく見る]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
 
 <p>趣味で作った個人サービスです。
 ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。<br />

@@ -16,21 +16,25 @@ contact:
   - title: pinterest
     url: https://www.pinterest.jp/ogato_desuyo/
   - title: email
-    url: tentenflog@gmail.com
+    url: mailto:tentenflog@gmail.com
 
 programming-skills:
   - title: Python
     description: 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。
+  - title: Django
+    description: httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。
+  - title: GAS
+    description: Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。
 
 creative-skills:
   - title: photoshop
-    description: 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。
+    description: 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。<br>サンプル　  <a href="https://www.pinterest.jp/ogato_desuyo/%E3%81%8A%E3%81%8C%E3%81%A8%E7%B7%B4%E7%BF%92/">おがとの趣味デザインまとめ</a>
   - title: lightroom
     description: 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。
   - title: XD
     description: Webのワイヤーフレームやプロトタイプのデザインができます。
   - title: PremirePro
-    description: 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br>サンプル  <a href="https://youtu.be/OGuaCBPxeHc">神ヶ谷舞</a>　<a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a>
+    description: 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br><br>サンプル　<a href="https://youtu.be/OGuaCBPxeHc">神ヶ谷舞</a>　<a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a>
 other-skills:
   - title: 
     description: 
