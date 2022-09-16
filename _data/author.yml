@@ -25,6 +25,8 @@ programming-skills:
     description: httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。
   - title: GAS
     description: Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。
+  - title: R
+    description: 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。
 
 creative-skills:
   - title: photoshop
