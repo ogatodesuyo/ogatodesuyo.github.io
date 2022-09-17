@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-17T14:00:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-17T14:07:03+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -148,7 +148,70 @@ YJキャピタルから出資を受けリリースしたものの思うように
 ログインでの離脱を減らすためにLINEログインを採用、決済にはstripeを用いました。  
 また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
 
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[レスバズ]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年8月27日</summary>
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[レスバズ]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年9月3日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月2日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月1日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月31日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月30日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月29日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月28日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年8月27日</summary>
 <br />
 ドングリFM、いいよなあ<br />
 元BuzzFeedの鳴海さんが好きで聴き始めたこのポッドキャストだけど更新頻度が高いのと散歩にぴったしなのもあってかれこれ4年ほど聴き続けている。
@@ -225,4 +288,4 @@ YJキャピタルから出資を受けリリースしたものの思うように
 
 <br />
 <br />
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年8月27日 ドングリFM、いいよなあ 元BuzzFeedの鳴海さんが好きで聴き始めたこのポッドキャストだけど更新頻度が高いのと散歩にぴったしなのもあってかれこれ4年ほど聴き続けている。 鳴海さんみたいな大雑把だけど貫禄あって渋い感じの上司欲しすぎる。]]></summary></entry></feed>
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年9月3日]]></summary></entry></feed>
