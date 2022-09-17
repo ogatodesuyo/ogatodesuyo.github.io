@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ogato_desu | スキル</title>
-  
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  <link rel="stylesheet" href="/assets/css/post.css" />
-  <link rel="stylesheet" href="/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/assets/css/common.css" />
-  <script src="/assets/js/categories.js"></script>
-  
-  <script defer src="/assets/js/lbox.js"></script>
-  
-</head>
-
-
-<body>
-  <main class="blogfeed">
-    
-<header>
-  <a class="site-title article-page" href="/">ogato_desu</a>
-</header>
-
-
-    <section id="article">
-      
-      <!--  -->
-      
-      <!--  -->
-      
-      <div class="article-thumbnail" style="
-            background-image: url('/assets/images/skills.jpg');
-          ">
-        <h1 class="article-title">スキル</h1>
-        <div class="article-bottom">
-          <small class="article-date">22 Aug 2022</small>
-          <div class="article-categories">
-            
-            <a href="#!" class="article-category">プロフ</a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="article-content"><section id="skills-area">
+I"<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -120,14 +73,6 @@
             <p>動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。<br /><br />サンプル　<a href="https://youtu.be/OGuaCBPxeHc">神ヶ谷舞</a>　<a href="https://youtu.be/dITDNTzNZ6c">リクルート動画</a></p>
         </div>
         
-        <div class="skills-block">
-            <div class="skills-title">
-                <img src="/assets/creative-skills/DTM.svg" alt="" />
-                <h4>DTM</h4>
-            </div>
-            <p>楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。<br /><br />サンプル　<a href="https://twitter.com/peko_peko_poo/status/1410247255962001414?s=20&amp;t=kGGcrC5utciw6fk7FdtSrA">サンプル1</a>　<a href="https://twitter.com/ogato_desuyo/status/1362062282172166150?s=20&amp;t=kGGcrC5utciw6fk7FdtSrA">サンプル2</a></p>
-        </div>
-        
     </details>
     <br />
     <h3 class="skill-area-title">その他スキル</h3>
@@ -136,26 +81,12 @@
         
         <div class="skills-block">
             <div class="skills-title">
-                <img src="/assets/other-skills/ライティング.svg" alt="" />
-                <h4>ライティング</h4>
+                <img src="/assets/other-skills/.svg" alt="" />
+                <h4></h4>
             </div>
-            <p>ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディア<a href="https://interestech.biz">収益化しているメディア</a>を運営しており、SEOを意識したライティングもしています。<br /><br />サンプル<br /><a href="https://note.com/ogato_desu/n/nb85e99018fe9">21歳。夏の終わり、痔の痛み</a><br /><a href="https://note.com/ogato_desu/n/n0b6fdf581258">0:29から始まるゴッホ</a></p>
+            <p></p>
         </div>
         
     </details>
 </section>
-</div>
-    </section>
-    <footer>
-  <p>&copy; 2022 - 2022 | おがと。</p>
-</footer>
-  </main>
-  <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-</body>
-
-</html>
+:ET
