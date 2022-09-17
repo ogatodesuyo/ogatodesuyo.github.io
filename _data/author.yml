@@ -27,6 +27,9 @@ programming-skills:
     description: Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。
   - title: R
     description: 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。
+  - title: JavaScript
+    description: バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。
+
 
 creative-skills:
   - title: photoshop
