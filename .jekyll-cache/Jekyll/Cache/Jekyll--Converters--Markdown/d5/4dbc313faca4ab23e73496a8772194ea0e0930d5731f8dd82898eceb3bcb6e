@@ -1,12 +1,4 @@
----
-layout: post
-title: プロフィール
-date: 2022-08-22 11:00:00
-categories: [プロフ]
-thumbnail: "assets/images/profile.jpg"
----
-
-<div class="profile-area">
+I"�<div class="profile-area">
     <div class="profile-name">
         <ruby>
         <rb>小川秀人</rb>
@@ -15,7 +7,7 @@ thumbnail: "assets/images/profile.jpg"
         <rp>）</rp>
         </ruby>
     </div>
-    <br>
+    <br />
     <div class="profile-contents">
         <p>
             1998年07月22日生。黒沢尻北高校を卒業後、青森公立大学に入学。社会人として仕事の傍ら4年次まで通うも経済的理由から中退。専攻は経営経済と統計。大学ではRを用いたデータ分析を学ぶ。
@@ -27,18 +19,19 @@ thumbnail: "assets/images/profile.jpg"
                 <tr><td>体重</td><td>82.5kg</td></tr>
                 <tr><td>視力</td><td>0.07 / 0.09</td></tr>
                 <tr><td>握力</td><td>52 / 49 (kg)</td></tr>
-                <tr><td>特技</td><td>Adobe<br>　Ps, Lr, Xd, Pr<br>プログラミング言語<br>　Python, GLSL, GAS, JS etc</td></tr>
+                <tr><td>特技</td><td>Adobe<br />　Ps, Lr, Xd, Pr<br />プログラミング言語<br />　Python, GLSL, GAS, JS etc</td></tr>
                 <tr><td>特徴</td><td>よく食べます。元気です。</td></tr>
-                <tr><td>アピールポイント</td><td>なんでも食べます。<br>虫とかも食べれます。</td></tr>
+                <tr><td>アピールポイント</td><td>なんでも食べます。<br />虫とかも食べれます。</td></tr>
             </tbody>
         </table>
         <div class="profile-img">
-            <img src="/assets/images/chart.jpg">
+            <img src="/assets/images/chart.jpg" />
         </div>
         <h3>ひとこと</h3>
         <p>
-            新規サービスの立ち上げに多くかかわってきました。スキルの幅が広いこともあり過去のプロジェクトではWeb制作、Web開発、VR開発、VTuberリリース~運営、イベント運営など沢山のジャンルに関わってきました。
-            エンジニアではありますがただモノを作るだけではなくクリエイターとしての視野を持って一生を過ごしたいと思っています。
+
         </p>
-    <div>
+        <div>
 </div>
+</div></div>
+:ET

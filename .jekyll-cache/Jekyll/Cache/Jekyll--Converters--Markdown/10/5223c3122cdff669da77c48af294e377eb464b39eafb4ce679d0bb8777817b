@@ -1,0 +1,27 @@
+I"<div class="profile-area">
+    <div class="profile-name">
+        <ruby>
+        <rb>小川秀人</rb>
+        <rp>（</rp>
+        <rt>オガワヒデト</rt>
+        <rp>）</rp>
+        </ruby>
+    </div>
+    <br />
+    <div class="profile-contents">
+        <p>1998年07月22日生。黒沢尻北高校を卒業後、青森公立大学に入学。社会人として仕事の傍ら4年次まで通うも経済的理由から中退。専攻は経営経済と統計。大学ではRを用いたデータ分析を学ぶ。</p>
+        <h3>ステータス</h3>
+        <table>
+            <tbody>
+                <tr><td>生年月日</td><td>1998-07-22</td></tr>
+                <tr><td>最終学歴</td><td>青森公立大学中退</td></tr>
+                <tr><td>専攻</td><td>経営経済・統計</td></tr>
+                <tr><td>サーバー</td><td>Ubuntu</td></tr>
+            </tbody>
+        </table>
+    <div>
+    <div class="profile-img">
+        <img src="/assets/images/chart.jpg" />
+    </div>
+</div></div></div>
+:ET

@@ -126,6 +126,7 @@
   margin: 1rem 0;
 }
 
+
 /* pre , code */
 .article-content,
 .article-content div,
@@ -176,4 +177,18 @@
   padding: 4px;
   background-color: black;
   border: 2px dashed var(--dm-contrast);
+}
+
+/* profile-page */
+
+.profile-area{
+  padding: 0 20px 0 20px;
+}
+
+.profile-name{
+  text-align: center;
+}
+
+.profile-img{
+  text-align: center;
 }
