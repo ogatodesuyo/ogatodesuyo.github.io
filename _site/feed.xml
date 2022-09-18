@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T19:35:15+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[<div class="profile-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T23:24:33+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[<div class="profile-area">
     <div class="profile-name">
         <ruby>
         <rb>小川秀人</rb>
@@ -198,7 +198,8 @@
 
 <p>スーパーマーケット版UberEatsです。
 YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。<br />
-<a href="https://prtimes.jp/main/html/rd/p/000000004.000067856.html" title="アイホック">アイホック</a>　※サービス終了しました</p>
+※サービス終了しました。<br />
+<a href="https://prtimes.jp/main/html/rd/p/000000004.000067856.html" title="アイホック">アイホック</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -216,6 +217,33 @@ YJキャピタルから出資を受けリリースしたものの思うように
 
 ログインでの離脱を減らすためにLINEログインを採用、決済にはstripeを用いました。  
 また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
+
+</details>
+<p><br /></p>
+
+<h3 id="かまみくサーチ非公式">かまみくサーチ(非公式)</h3>
+
+<p>オモコロの金曜ラジオ「かまってみくのしん」の過去回検索botです
+LIFFとGASを用いてサーバーレス構成を実現しました。<br />
+<br />
+  <em>※LIFFの仕様変更につき一時サービス停止中</em><br />
+<a href="https://sample.com" title="かまみくサーチ">かまみくサーチ</a></p>
+
+<details><summary>技術構成</summary>
+
+<table>
+      <thead>
+        <tr><th>　</th><th>　</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>開発言語</td><td>GAS</td></tr>
+        <tr><td>フレームワーク</td><td>LIFF</td></tr>
+        <tr><td>DB</td><td>スプレッドシート</td></tr>
+        <tr><td>サーバー</td><td>なし(GAS)</td></tr>
+      </tbody>
+</table>
+
+LINE Frontend Framework、通称LIFFを用いたLINEbotです。コード量は200行もなく1日で実装した簡易botです。DBの代わりにスプレッドシートを利用したことで管理画面も必要なく誰でも簡単に運用できるだけでなく横展開も容易なbotです。
 
 </details>
 <p><br /></p>

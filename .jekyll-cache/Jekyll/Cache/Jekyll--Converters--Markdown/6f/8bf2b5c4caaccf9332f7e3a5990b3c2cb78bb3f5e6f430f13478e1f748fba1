@@ -1,17 +1,8 @@
----
-layout: post
-title: 作ったもの
-date: 2022-08-22 8:00:00
-categories: [プロフ, 技術]
-thumbnail: "assets/images/creative.jpg"
----
+I"�<h3 id="レスバズ">レスバズ</h3>
 
-### レスバズ 
-
-趣味で作った個人サービスです。
-ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。  
-[https://resu.buzz](https://resu.buzz "https://resu.buzz")
-
+<p>趣味で作った個人サービスです。
+ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。<br />
+<a href="https://resu.buzz" title="https://resu.buzz">https://resu.buzz</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -29,21 +20,19 @@ thumbnail: "assets/images/creative.jpg"
 
 <figure>
 <legend>インフラ構成図</legend>
-<img src="/assets/images/diagram.jpg" alt="インフラ構成図">
+<img src="/assets/images/diagram.jpg" alt="インフラ構成図" />
 </figure>
 
 
 
 </details>
-<br>
+<p><br /></p>
 
-### アイホック 
+<h3 id="アイホック">アイホック</h3>
 
-スーパーマーケット版UberEatsです。
-YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。  
-※サービス終了しました。  
-[アイホック](https://prtimes.jp/main/html/rd/p/000000004.000067856.html "アイホック")
-
+<p>スーパーマーケット版UberEatsです。
+YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。<br />
+<a href="https://prtimes.jp/main/html/rd/p/000000004.000067856.html" title="アイホック">アイホック</a>　※サービス終了しました</p>
 
 <details><summary>技術構成</summary>
 
@@ -63,16 +52,14 @@ YJキャピタルから出資を受けリリースしたものの思うように
 また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
 
 </details>
-<br>
+<p><br /></p>
 
-### かまみくサーチ(非公式) 
+<h3 id="かまみくサーチ非公式">かまみくサーチ(非公式)</h3>
 
-オモコロの金曜ラジオ「かまってみくのしん」の過去回検索botです
-LIFFとGASを用いてサーバーレス構成を実現しました。  
-<br>
-  *※LIFFの仕様変更につき一時サービス停止中*  
-[かまみくサーチ](https://sample.com "かまみくサーチ") 
-
+<p>オモコロの金曜ラジオ「かまってみくのしん」の過去回検索botです
+LIFFとGASを用いてサーバーレス構成を実現しました。<br />
+ <del>※LIFFの仕様変更につき一時サービス停止中</del><br />
+<a href="https://interestech.biz" title="かまみくサーチ">かまみくサーチ</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -91,15 +78,13 @@ LIFFとGASを用いてサーバーレス構成を実現しました。
 LINE Frontend Framework、通称LIFFを用いたLINEbotです。コード量は200行もなく1日で実装した簡易botです。DBの代わりにスプレッドシートを利用したことで管理画面も必要なく誰でも簡単に運用できるだけでなく横展開も容易なbotです。
 
 </details>
-<br>
+<p><br /></p>
 
+<h3 id="interestech">InteresTech</h3>
 
-### InteresTech 
-
-趣味で運営しているテックメディアです。
+<p>趣味で運営しているテックメディアです。
 面白いテック企業やプロダクトを紹介しています。
-[InteresTech](https://interestech.biz "InteresTech") 
-
+<a href="https://interestech.biz" title="InteresTech">InteresTech</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -119,4 +104,5 @@ Amazon Lightsailで運用するWordPressがインフラ作業コストが低く�
 専用のオートスケールサービスを使うことでロードバランサの実装をしなくてよかったのも非常に便利でした。
 
 </details>
-<br>
+<p><br /></p>
+:ET
