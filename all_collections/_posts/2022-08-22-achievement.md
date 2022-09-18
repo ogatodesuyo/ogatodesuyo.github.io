@@ -20,3 +20,6 @@ thumbnail: "assets/images/achivements.jpg"
 
 2020 Jul  
 　琉球大学ビジネスアイデアコンテストにて審査員を担当  
+
+2020 May  
+　Twitterプロフへのアクセスが10万を突破  
