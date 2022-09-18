@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T13:22:37+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T16:18:29+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -112,7 +112,20 @@
         </div>
         
     </details>
-</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 Django httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。 GAS Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発経験もあります。 R 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。 JavaScript バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。 GLSL 幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。サンプル　Github クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。サンプル　 おがとの趣味デザインまとめ lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル　神ヶ谷舞　リクルート動画 DTM 楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。サンプル　サンプル1　サンプル2 その他スキル 詳しく見る writing ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディアを運営しており、SEOを意識したライティングもしています。サンプル21歳。夏の終わり、痔の痛み0:29から始まるゴッホ「にじさんじ」を運営するANYCOLOR(旧いちから)が上場 xR業界にさらなる期待]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
+</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 Django httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。 GAS Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発経験もあります。 R 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。 JavaScript バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。 GLSL 幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。サンプル　Github クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。サンプル　 おがとの趣味デザインまとめ lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル　神ヶ谷舞　リクルート動画 DTM 楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。サンプル　サンプル1　サンプル2 その他スキル 詳しく見る writing ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディアを運営しており、SEOを意識したライティングもしています。サンプル21歳。夏の終わり、痔の痛み0:29から始まるゴッホ「にじさんじ」を運営するANYCOLOR(旧いちから)が上場 xR業界にさらなる期待]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>2022 Aug<br />
+　レスバズがPRTimes”いま話題”2位に掲載</p>
+
+<p>2022 Jun<br />
+　ミックスホストキャッチコピーコンペ入賞</p>
+
+<p>2022 Feb<br />
+　青森学生ビジネスコンテスト準優勝</p>
+
+<p>2021 Jul<br />
+　YJキャピタルから700万円の資金調達</p>
+
+<p>2020 Jul<br />
+　琉球大学ビジネスアイデアコンテストにて審査員を担当</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[2022 Aug 　レスバズがPRTimes”いま話題”2位に掲載 2022 Jun 　ミックスホストキャッチコピーコンペ入賞 2022 Feb 　青森学生ビジネスコンテスト準優勝]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
 
 <p>趣味で作った個人サービスです。
 ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。<br />
@@ -140,6 +153,7 @@
 
 
 </details>
+<p><br /></p>
 
 <h3 id="アイホック">アイホック</h3>
 
@@ -165,6 +179,7 @@ YJキャピタルから出資を受けリリースしたものの思うように
 また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
 
 </details>
+<p><br /></p>
 
 <h3 id="interestech">InteresTech</h3>
 
@@ -189,7 +204,149 @@ YJキャピタルから出資を受けリリースしたものの思うように
 Amazon Lightsailで運用するWordPressがインフラ作業コストが低くて楽だという噂を小耳に挟んだので試してみました。  
 専用のオートスケールサービスを使うことでロードバランサの実装をしなくてよかったのも非常に便利でした。
 
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[レスバズ]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年9月3日</summary>
+</details>
+<p><br /></p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[レスバズ]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年9月18日</summary>
+<br />
+InteresTechが放置気味なのでなんとかかけたお金だけでも回収したい。金銭的に限界過ぎる......
+<br />
+メディアサイトは簡単に作れるけど問題は運用なんだよなあ。いつもこうだ、個人ブログとメディア合わせたらこれまでに何本のサイトを建てただろうか。
+<br />
+何本建てたかもそうだけど何回消し飛ばしたもそうだな。サーバー上書きとかサーバー代支払い忘れとかなんとか()
+<br />
+真面目な人間になりたいよ～～～～～～！！！
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月17日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月16日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月15日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月14日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月13日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月12日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月11日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月10日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月9日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月8日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月7日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月6日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月5日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月4日</summary>
+<br />
+
+<br />
+<br />
+
+
+</details>
+
+<details><summary>2022年9月3日</summary>
 <br />
 
 <br />
@@ -329,4 +486,4 @@ Amazon Lightsailで運用するWordPressがインフラ作業コストが低く�
 
 <br />
 <br />
-</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年9月3日]]></summary></entry></feed>
+</details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="日記" /><category term="雑記" /><summary type="html"><![CDATA[2022年9月18日 InteresTechが放置気味なのでなんとかかけたお金だけでも回収したい。金銭的に限界過ぎる...... メディアサイトは簡単に作れるけど問題は運用なんだよなあ。いつもこうだ、個人ブログとメディア合わせたらこれまでに何本のサイトを建てただろうか。 何本建てたかもそうだけど何回消し飛ばしたもそうだな。サーバー上書きとかサーバー代支払い忘れとかなんとか() 真面目な人間になりたいよ～～～～～～！！！]]></summary></entry></feed>
