@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-17T14:14:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T13:22:37+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ogato_desu</title><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><entry><title type="html">プロフィール</title><link href="http://localhost:4000/posts/profile/" rel="alternate" type="text/html" title="プロフィール" /><published>2022-08-22T20:00:00+09:00</published><updated>2022-08-22T20:00:00+09:00</updated><id>http://localhost:4000/posts/profile</id><content type="html" xml:base="http://localhost:4000/posts/profile/"><![CDATA[]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">スキル</title><link href="http://localhost:4000/posts/skills/" rel="alternate" type="text/html" title="スキル" /><published>2022-08-22T19:00:00+09:00</published><updated>2022-08-22T19:00:00+09:00</updated><id>http://localhost:4000/posts/skills</id><content type="html" xml:base="http://localhost:4000/posts/skills/"><![CDATA[<section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -24,7 +24,7 @@
                 <img src="/assets/programming-skills/GAS.svg" alt="" />
                 <h4>GAS</h4>
             </div>
-            <p>Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。</p>
+            <p>Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発経験もあります。</p>
         </div>
         
         <div class="skills-block">
@@ -41,6 +41,14 @@
                 <h4>JavaScript</h4>
             </div>
             <p>バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。</p>
+        </div>
+        
+        <div class="skills-block">
+            <div class="skills-title">
+                <img src="/assets/programming-skills/GLSL.svg" alt="" />
+                <h4>GLSL</h4>
+            </div>
+            <p>幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。<br /><br /><a href="https://twitter.com/ogato_desuyo/status/1409211862747475971?s=20&amp;t=URjn73b4zyOPZ926BY-wjQ">サンプル</a>　<a href="https://github.com/ogatodesuyo/ogato_shader/tree/master/shader">Github</a></p>
         </div>
         
     </details>
@@ -97,14 +105,14 @@
         
         <div class="skills-block">
             <div class="skills-title">
-                <img src="/assets/other-skills/ライティング.svg" alt="" />
-                <h4>ライティング</h4>
+                <img src="/assets/other-skills/writing.svg" alt="" />
+                <h4>writing</h4>
             </div>
-            <p>ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディア<a href="https://interestech.biz">収益化しているメディア</a>を運営しており、SEOを意識したライティングもしています。<br /><br />サンプル<br /><a href="https://note.com/ogato_desu/n/nb85e99018fe9">21歳。夏の終わり、痔の痛み</a><br /><a href="https://note.com/ogato_desu/n/n0b6fdf581258">0:29から始まるゴッホ</a></p>
+            <p>ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも<a href="https://interestech.biz">収益化しているメディア</a>を運営しており、SEOを意識したライティングもしています。<br /><br />サンプル<br /><a href="https://note.com/ogato_desu/n/nb85e99018fe9">21歳。夏の終わり、痔の痛み</a><br /><a href="https://note.com/ogato_desu/n/n0b6fdf581258">0:29から始まるゴッホ</a><br /><a href="https://interestech.biz/archives/48">「にじさんじ」を運営するANYCOLOR(旧いちから)が上場 xR業界にさらなる期待</a></p>
         </div>
         
     </details>
-</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 Django httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。 GAS Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。 R 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。 JavaScript バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。 クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。サンプル　 おがとの趣味デザインまとめ lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル　神ヶ谷舞　リクルート動画 DTM 楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。サンプル　サンプル1　サンプル2 その他スキル 詳しく見る ライティング ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディア収益化しているメディアを運営しており、SEOを意識したライティングもしています。サンプル21歳。夏の終わり、痔の痛み0:29から始まるゴッホ]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
+</section>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[プログラミングスキル 詳しく見る Python 基本的な構文に加え、PandasやNumpyを使った数的処理や探索アルゴリズムやソートアルゴリズムが書けます。 Django httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。 GAS Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発経験もあります。 R 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。 JavaScript バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。 GLSL 幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。サンプル　Github クリエイティブスキル 詳しく見る photoshop 画像の加工や編集のほか、ポスターやパンフレットのデザインができます。サンプル　 おがとの趣味デザインまとめ lightroom 画像の現像やカラーグレーディング、編集ができます。各種イベントの時期にはレイヤーさん等のフォトレタッチ依頼もお受けしています。サンプルが欲しい方はSNSのDMでその旨をお願いします。 XD Webのワイヤーフレームやプロトタイプのデザインができます。 PremirePro 動画編集ができます。特徴のあるテロップやトランジションを多用したYouTuber風の動画から落ち着いた雰囲気の企業紹介動画まで対応できます。サンプル　神ヶ谷舞　リクルート動画 DTM 楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。サンプル　サンプル1　サンプル2 その他スキル 詳しく見る writing ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディアを運営しており、SEOを意識したライティングもしています。サンプル21歳。夏の終わり、痔の痛み0:29から始まるゴッホ「にじさんじ」を運営するANYCOLOR(旧いちから)が上場 xR業界にさらなる期待]]></summary></entry><entry><title type="html">実績</title><link href="http://localhost:4000/posts/achievement/" rel="alternate" type="text/html" title="実績" /><published>2022-08-22T18:00:00+09:00</published><updated>2022-08-22T18:00:00+09:00</updated><id>http://localhost:4000/posts/achievement</id><content type="html" xml:base="http://localhost:4000/posts/achievement/"><![CDATA[<p>投稿テスト2</p>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><summary type="html"><![CDATA[投稿テスト2]]></summary></entry><entry><title type="html">作ったもの</title><link href="http://localhost:4000/posts/creative/" rel="alternate" type="text/html" title="作ったもの" /><published>2022-08-22T17:00:00+09:00</published><updated>2022-08-22T17:00:00+09:00</updated><id>http://localhost:4000/posts/creative</id><content type="html" xml:base="http://localhost:4000/posts/creative/"><![CDATA[<h3 id="レスバズ">レスバズ</h3>
 
 <p>趣味で作った個人サービスです。
 ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。<br />
@@ -155,6 +163,31 @@ YJキャピタルから出資を受けリリースしたものの思うように
 
 ログインでの離脱を減らすためにLINEログインを採用、決済にはstripeを用いました。  
 また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
+
+</details>
+
+<h3 id="interestech">InteresTech</h3>
+
+<p>趣味で運営しているテックメディアです。
+面白いテック企業やプロダクトを紹介しています。
+<a href="https://interestech.biz" title="InteresTech">InteresTech</a></p>
+
+<details><summary>技術構成</summary>
+
+<table>
+      <thead>
+        <tr><th>　</th><th>　</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>開発言語</td><td>PHP</td></tr>
+        <tr><td>CMS</td><td>WordPress</td></tr>
+        <tr><td>DB</td><td>MySQL</td></tr>
+        <tr><td>サーバー</td><td>Ubuntu</td></tr>
+      </tbody>
+</table>
+
+Amazon Lightsailで運用するWordPressがインフラ作業コストが低くて楽だという噂を小耳に挟んだので試してみました。  
+専用のオートスケールサービスを使うことでロードバランサの実装をしなくてよかったのも非常に便利でした。
 
 </details>]]></content><author><name>Ogawa Hideto</name><email>tentenflog@gmail.com</email></author><category term="プロフ" /><category term="技術" /><summary type="html"><![CDATA[レスバズ]]></summary></entry><entry><title type="html">日記</title><link href="http://localhost:4000/posts/dialy/" rel="alternate" type="text/html" title="日記" /><published>2022-08-22T16:00:00+09:00</published><updated>2022-08-22T16:00:00+09:00</updated><id>http://localhost:4000/posts/dialy</id><content type="html" xml:base="http://localhost:4000/posts/dialy/"><![CDATA[<details><summary>2022年9月3日</summary>
 <br />

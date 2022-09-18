@@ -24,11 +24,14 @@ programming-skills:
   - title: Django
     description: httpサーバーとして扱う場合のDjangoの機能は一通り押さえています。APIサーバーとして扱う場合のDjangoは調べながらであれば書けます。
   - title: GAS
-    description: Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発も経験があります。
+    description: Gメールやスプレッドシートの自動化ができます。加えてGドライブを用いた静的ホスティングやサーバーレスアプリケーションの開発経験もあります。
   - title: R
     description: 大学で統計を学んでいたため学部卒レベルのデータ分析ができます。とはいえ正直Webベースの案件が多くPythonを使うことの方が多いためRの実務経験はありません。
   - title: JavaScript
     description: バックエンドエンジニアなのでフロントエンドは苦手ですが簡単なAPIの使用やjQueryを用いたクリックアクションやフォームのバリデーション程度であればできます。
+  - title: GLSL
+    description: 幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。<br><br><a href="https://twitter.com/ogato_desuyo/status/1409211862747475971?s=20&t=URjn73b4zyOPZ926BY-wjQ">サンプル</a>　<a href="https://github.com/ogatodesuyo/ogato_shader/tree/master/shader">Github</a>
+
 
 
 creative-skills:
@@ -44,5 +47,5 @@ creative-skills:
     description: 楽曲制作ができます。あくまで趣味の範囲です。チップチューンが好みです。<br><br>サンプル　<a href="https://twitter.com/peko_peko_poo/status/1410247255962001414?s=20&t=kGGcrC5utciw6fk7FdtSrA">サンプル1</a>　<a href="https://twitter.com/ogato_desuyo/status/1362062282172166150?s=20&t=kGGcrC5utciw6fk7FdtSrA">サンプル2</a>
 
 other-skills:
-  - title: ライティング
-    description: ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも収益化しているメディア<a href="https://interestech.biz">収益化しているメディア</a>を運営しており、SEOを意識したライティングもしています。<br><br>サンプル<br><a href="https://note.com/ogato_desu/n/nb85e99018fe9">21歳。夏の終わり、痔の痛み</a><br><a href="https://note.com/ogato_desu/n/n0b6fdf581258">0:29から始まるゴッホ</a>
+  - title: writing
+    description: ユーザー層に合わせてまじめな文章からくだけた面白記事まで幅広い文章表現ができます。個人でも<a href="https://interestech.biz">収益化しているメディア</a>を運営しており、SEOを意識したライティングもしています。<br><br>サンプル<br><a href="https://note.com/ogato_desu/n/nb85e99018fe9">21歳。夏の終わり、痔の痛み</a><br><a href="https://note.com/ogato_desu/n/n0b6fdf581258">0:29から始まるゴッホ</a><br><a href="https://interestech.biz/archives/48">「にじさんじ」を運営するANYCOLOR(旧いちから)が上場 xR業界にさらなる期待</a>

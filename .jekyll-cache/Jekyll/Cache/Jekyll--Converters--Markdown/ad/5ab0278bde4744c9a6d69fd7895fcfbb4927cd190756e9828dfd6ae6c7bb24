@@ -1,17 +1,8 @@
----
-layout: post
-title: 作ったもの
-date: 2022-08-22 8:00:00
-categories: [プロフ, 技術]
-thumbnail: "assets/images/creative.jpg"
----
+I"j<h3 id="レスバズ">レスバズ</h3>
 
-### レスバズ 
-
-趣味で作った個人サービスです。
-ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。  
-[https://resu.buzz](https://resu.buzz "https://resu.buzz")
-
+<p>趣味で作った個人サービスです。
+ツイッターの対立構造を可視化し、その意見の正当性を投票によって第三者に委ねることができます。<br />
+<a href="https://resu.buzz" title="https://resu.buzz">https://resu.buzz</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -29,20 +20,18 @@ thumbnail: "assets/images/creative.jpg"
 
 <figure>
 <legend>インフラ構成図</legend>
-<img src="/assets/images/diagram.jpg" alt="インフラ構成図">
+<img src="/assets/images/diagram.jpg" alt="インフラ構成図" />
 </figure>
 
 
 
 </details>
 
+<h3 id="アイホック">アイホック</h3>
 
-### アイホック 
-
-スーパーマーケット版UberEatsです。
-YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。  
-[アイホック](https://prtimes.jp/main/html/rd/p/000000004.000067856.html "アイホック")　※サービス終了しました 
-
+<p>スーパーマーケット版UberEatsです。
+YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。<br />
+<a href="https://prtimes.jp/main/html/rd/p/000000004.000067856.html" title="アイホック">アイホック</a>　※サービス終了しました</p>
 
 <details><summary>技術構成</summary>
 
@@ -63,13 +52,11 @@ YJキャピタルから出資を受けリリースしたものの思うように
 
 </details>
 
+<h3 id="interestech">InteresTech</h3>
 
-### InteresTech 
-
-趣味で運営しているテックメディアです。
-面白いテック企業やプロダクトを紹介しています。
-[InteresTech](https://interestech.biz "InteresTech") 
-
+<p>スーパーマーケット版UberEatsです。
+YJキャピタルから出資を受けリリースしたものの思うようにユーザーが伸びずサービス終了しました。<br />
+<a href="https://interestech.biz" title="InteresTech">InteresTech</a></p>
 
 <details><summary>技術構成</summary>
 
@@ -85,7 +72,8 @@ YJキャピタルから出資を受けリリースしたものの思うように
       </tbody>
 </table>
 
-Amazon Lightsailで運用するWordPressがインフラ作業コストが低くて楽だという噂を小耳に挟んだので試してみました。  
-専用のオートスケールサービスを使うことでロードバランサの実装をしなくてよかったのも非常に便利でした。
+ログインでの離脱を減らすためにLINEログインを採用、決済にはstripeを用いました。  
+また、Webベースのアプリですが配送員への通知機能を実装したかったので、GASとLINE MessageAPIを用いて強引ですが通知botを併せて作りました。
 
 </details>
+:ET

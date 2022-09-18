@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ogato_desu | スキル</title>
-  
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  <link rel="stylesheet" href="/assets/css/post.css" />
-  <link rel="stylesheet" href="/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/assets/css/common.css" />
-  <script src="/assets/js/categories.js"></script>
-  
-  <script defer src="/assets/js/lbox.js"></script>
-  
-</head>
-
-
-<body>
-  <main class="blogfeed">
-    
-<header>
-  <a class="site-title article-page" href="/">ogato_desu</a>
-</header>
-
-
-    <section id="article">
-      
-      <!--  -->
-      
-      <!--  -->
-      
-      <div class="article-thumbnail" style="
-            background-image: url('/assets/images/skills.jpg');
-          ">
-        <h1 class="article-title">スキル</h1>
-        <div class="article-bottom">
-          <small class="article-date">22 Aug 2022</small>
-          <div class="article-categories">
-            
-            <a href="#!" class="article-category">プロフ</a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="article-content"><section id="skills-area">
+I" <section id="skills-area">
     <h3 class="skill-area-title">プログラミングスキル</h3>
     <details>
         <summary>詳しく見る</summary>
@@ -95,7 +48,7 @@
                 <img src="/assets/programming-skills/GLSL.svg" alt="" />
                 <h4>GLSL</h4>
             </div>
-            <p>幾何学模様やバックグラウンドアニメーションをコードで書くことができます。趣味で書いたものに関してはGithubで公開していますので是非ご確認ください。<br /><br /><a href="https://twitter.com/ogato_desuyo/status/1409211862747475971?s=20&amp;t=URjn73b4zyOPZ926BY-wjQ">サンプル</a>　<a href="https://github.com/ogatodesuyo/ogato_shader/tree/master/shader">Github</a></p>
+            <p>幾何学模様やバックグラウンドアニメーションをコードで書くことができます。<br /><br /><a href="https://twitter.com/ogato_desuyo/status/1409211862747475971?s=20&amp;t=URjn73b4zyOPZ926BY-wjQ">サンプル</a>　<a href="https://github.com/ogatodesuyo/ogato_shader/tree/master/shader">Github</a></p>
         </div>
         
     </details>
@@ -160,18 +113,4 @@
         
     </details>
 </section>
-</div>
-    </section>
-    <footer>
-  <p>&copy; 2022 - 2022 | おがと。</p>
-</footer>
-  </main>
-  <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-</body>
-
-</html>
+:ET
